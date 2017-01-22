@@ -2,8 +2,7 @@
 Python 3 implementation of Grep ... or at least a rudementry attempt.
 
 ## ToDo
-* Gain better understanding of how the shift tables are build
-* Move the shift table code into a helper class
+* Gain better understanding of how the shift tables are built
 * Add basic CLI
 * Add regex support
 * Add basic grep options such as -i, -R etc
