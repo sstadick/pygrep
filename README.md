@@ -1,8 +1,17 @@
 # pygrep
 Python 3 implementation of Grep ... or at least a rudementry attempt.
 
+## ToDo
+* Gain better understanding of how the shift tables are build
+* Move the shift table code into a helper class
+* Add basic CLI
+* Add regex support
+* Add basic grep options such as -i, -R etc
+* Add colorized support
+* Add visualizer
+* Add multi-algorithm suport to choose which one to run
 
-# Sources
+## Sources
 * Fast String Searching by Andrew Hume and Daniel Sunday: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.9460&rep=rep1&type=pdf
 * why is GNU grep so fast: https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
 * ripgrep code review: http://blog.mbrt.it/2016-12-01-ripgrep-code-review/
