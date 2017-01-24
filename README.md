@@ -10,6 +10,9 @@ Python 3 implementation of Grep ... or at least a rudementry attempt.
 * Add visualizer
 * Add multi-algorithm suport to choose which one to run
 
+## Possible additions
+* http://nuitka.net/pages/overview.html to comple to c....fast in theory
+
 ## Sources
 * Fast String Searching by Andrew Hume and Daniel Sunday: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.13.9460&rep=rep1&type=pdf
 * why is GNU grep so fast: https://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html
